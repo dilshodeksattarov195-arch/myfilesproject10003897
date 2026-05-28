@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendncrypt",
+        "uuid": 32664654,
+        "checksum": "gd3so"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
